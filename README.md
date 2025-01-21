@@ -42,7 +42,7 @@ This repository contains a **JavaScript-based Banking Management System**, simul
    ```bash
    node <filename>.js
    ```
-   Replace `<filename>` with the name of the main file (e.g., `main.js`).
+   Replace `<filename>` with the name of the main file (e.g., `bankapp.js`).
 
 ---
 
